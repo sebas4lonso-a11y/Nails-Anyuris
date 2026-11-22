@@ -12,13 +12,13 @@ window.NAILS_CONFIG = {
   whatsapp: "573233351141",
 
   /* Mensaje que aparece escrito al abrir el chat */
-  mensaje: "Hola Nails Anyuris, quiero agendar una cita.",
+  mensaje: "Hola Anyuris, quiero agendar una cita.",
 
   /* ---------- NEQUI / PAGOS ---------- */
-  nequi: "3233351141",
+  nequi: "",
 
   /* ---------- UBICACIÓN ---------- */
-  direccion: "Camarones - calle 8 6A #18",
+  direccion: "Camarones - calle #",
 
   /* Enlace de Google Maps (opcional). Pega aquí el enlace de tu
      ubicación para que el botón "Cómo llegar" abra el punto exacto.
