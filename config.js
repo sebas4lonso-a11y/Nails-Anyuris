@@ -15,7 +15,7 @@ window.NAILS_CONFIG = {
   mensaje: "Hola Anyuris, quiero agendar una cita.",
 
   /* ---------- NEQUI / PAGOS ---------- */
-  nequi: "",
+  nequi: "3233351141",
 
   /* ---------- UBICACIÓN ---------- */
   direccion: "Camarones - calle #",
