@@ -34,7 +34,7 @@ window.NAILS_CONFIG = {
      Para agregar un servicio, copia una línea completa y cámbiala.
      Para quitar uno, borra su línea.                              */
   servicios: [
-    { nombre: "Semipermanente",     precio: "$30.000", foto: "img/semipermanente.jpg", nota: "" },
+    { nombre: "Semipermanente",     precio: "$30.000", foto: "/img/semipermanente.jpg", nota: "" },
     { nombre: "Polygel",            precio: "$60.000", foto: "img/polygel.jpg", nota: "" },
     { nombre: "Soft gel",           precio: "$55.000", foto: "img/soft-gel.jpg", nota: "" },
     { nombre: "Mantenimiento",      precio: "$40.000", foto: "img/mantenimiento.jpg", nota: "" },
