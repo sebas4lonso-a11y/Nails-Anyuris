@@ -38,7 +38,6 @@ window.NAILS_CONFIG = {
     { nombre: "Polygel",            precio: "$60.000", foto: "/img/polygel.jpeg", nota: "" },
     { nombre: "Soft gel",           precio: "$55.000", foto: "/img/softgel.jpeg", nota: "" },
     { nombre: "Mantenimiento",      precio: "$40.000", foto: "/img/mantenimiento.jpeg", nota: "" },
-    { nombre: "Retirado",           precio: "$10.000", foto: "/img/retirado.jpeg", nota: "" }
   ],
 
   /* ---------- TRABAJOS REALIZADOS (galería) ----------
