@@ -34,11 +34,11 @@ window.NAILS_CONFIG = {
      Para agregar un servicio, copia una línea completa y cámbiala.
      Para quitar uno, borra su línea.                              */
   servicios: [
-    { nombre: "Semipermanente",     precio: "$30.000", foto: "/img/semipermanente.jpg", nota: "" },
-    { nombre: "Polygel",            precio: "$60.000", foto: "img/polygel.jpg", nota: "" },
-    { nombre: "Soft gel",           precio: "$55.000", foto: "img/soft-gel.jpg", nota: "" },
-    { nombre: "Mantenimiento",      precio: "$40.000", foto: "img/mantenimiento.jpg", nota: "" },
-    { nombre: "Retirado",           precio: "$10.000", foto: "img/retirado.jpg", nota: "" }
+    { nombre: "Semipermanente",     precio: "$30.000", foto:"/img/semipermanente.jpeg", nota: "" },
+    { nombre: "Polygel",            precio: "$60.000", foto: "/img/polygel.jpeg", nota: "" },
+    { nombre: "Soft gel",           precio: "$55.000", foto: "/img/soft-gel.jpeg", nota: "" },
+    { nombre: "Mantenimiento",      precio: "$40.000", foto: "/img/mantenimiento.jpeg", nota: "" },
+    { nombre: "Retirado",           precio: "$10.000", foto: "/img/retirado.jpeg", nota: "" }
   ],
 
   /* ---------- TRABAJOS REALIZADOS (galería) ----------
@@ -47,11 +47,11 @@ window.NAILS_CONFIG = {
      alt  : descripción corta de la foto (ayuda a accesibilidad)
      Agrega o quita líneas como quieras.                           */
   trabajos: [
-    { foto: "img/1.jpg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
-    { foto: "img/2.jpg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
-    { foto: "img/3.jpg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
-    { foto: "img/4.jpg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
-    { foto: "img/5.jpg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
-    { foto: "img/6.jpg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
+    { foto: "img/1.jpeg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
+    { foto: "img/2.jpeg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
+    { foto: "img/3.jpeg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
+    { foto: "img/4.jpeg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
+    { foto: "img/5.jpeg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
+    { foto: "img/6.jpeg", alt: "Trabajo de uñas realizado en Nails Anyuris" },
   ]
 };
